@@ -1,0 +1,11 @@
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.deps.json
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\obj\Debug\netstandard2.0\TransientFaultHandling.csprojAssemblyReference.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Properties.Resources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\obj\Debug\netstandard2.0\TransientFaultHandling.csproj.GenerateResource.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\obj\Debug\netstandard2.0\TransientFaultHandling.AssemblyInfoInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\obj\Debug\netstandard2.0\TransientFaultHandling.AssemblyInfo.cs
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\obj\Debug\netstandard2.0\TransientFaultHandling.csproj.CoreCompileInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.pdb

@@ -1,0 +1,17 @@
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Caching.deps.json
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Caching.csprojAssemblyReference.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.DesignResources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Manageability.Properties.Resources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Caching.Properties.Resources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Caching.csproj.GenerateResource.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Caching.AssemblyInfoInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Caching.AssemblyInfo.cs
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Caching.csproj.CoreCompileInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Caching.csproj.CopyComplete
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Caching Application Block\Caching\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Caching.pdb

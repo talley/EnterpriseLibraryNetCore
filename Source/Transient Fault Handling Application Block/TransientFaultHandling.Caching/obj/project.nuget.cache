@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2xMHQ34qlyojMW9YUbmu+oPRsa2u8yQtAe6Q1MQl0pO6pUD5VO27cmGCtCGhO9it9BpSrnMELiR9Ro4E4DPyyw==",
+  "success": true,
+  "projectFilePath": "D:\\MyGitApps\\EnterpriseLibraryNetCore\\Source\\Transient Fault Handling Application Block\\TransientFaultHandling.Caching\\TransientFaultHandling.Caching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abibou\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Abibou\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Abibou\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\Abibou\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\Abibou\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Abibou\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

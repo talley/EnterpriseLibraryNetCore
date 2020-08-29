@@ -1,0 +1,17 @@
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.deps.json
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Security.Cryptography.csprojAssemblyReference.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.Configuration.DesignResources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.Configuration.Manageability.Properties.Resources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.Properties.Resources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Security.Cryptography.csproj.GenerateResource.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Security.Cryptography.AssemblyInfoInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Security.Cryptography.AssemblyInfo.cs
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Security.Cryptography.csproj.CoreCompileInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Security.Cryptography.csproj.CopyComplete
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Cryptography Application Block\Security.Cryptography\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb

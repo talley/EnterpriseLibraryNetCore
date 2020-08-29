@@ -1,0 +1,17 @@
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Validation.deps.json
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\obj\Debug\netstandard2.0\Validation.csprojAssemblyReference.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Validation.Configuration.DesignResources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Validation.Properties.Resources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\obj\Debug\netstandard2.0\Validation.csproj.GenerateResource.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\obj\Debug\netstandard2.0\Validation.AssemblyInfoInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\obj\Debug\netstandard2.0\Validation.AssemblyInfo.cs
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\obj\Debug\netstandard2.0\Validation.csproj.CoreCompileInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\obj\Debug\netstandard2.0\Validation.csproj.CopyComplete
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Validation Application Block\Validation\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Validation.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GkL1+AuqmAkP4AoPiN1bA+5AqNcW2egyqFH9rjhSWAZmkoGTxlLDWXk9h5LIVY5uMyNpRw4aziNVxKG+yNi4aA==",
+  "success": true,
+  "projectFilePath": "D:\\MyGitApps\\EnterpriseLibraryNetCore\\Source\\Transient Fault Handling Application Block\\TransientFaultHandling\\TransientFaultHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abibou\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Abibou\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SPHy7cusbwCSGSvuNt47s+L13gqJzBlo+PyJnSqh53Q9NCNZYVSc8X9GXJd85dWKUW4iA9b2LsEAA/Uy9KZUUA==",
+  "success": true,
+  "projectFilePath": "D:\\MyGitApps\\EnterpriseLibraryNetCore\\Source\\Semantic Logging Application Block\\SemanticLogging.EventSourceAnalyzer\\SemanticLogging.EventSourceAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abibou\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Abibou\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Abibou\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

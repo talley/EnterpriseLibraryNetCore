@@ -1,0 +1,17 @@
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Logging.deps.json
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\obj\Debug\netstandard2.0\Logging.csprojAssemblyReference.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.DesignResources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Logging.Properties.Resources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\obj\Debug\netstandard2.0\Logging.csproj.GenerateResource.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\obj\Debug\netstandard2.0\Logging.AssemblyInfoInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\obj\Debug\netstandard2.0\Logging.AssemblyInfo.cs
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\obj\Debug\netstandard2.0\Logging.csproj.CoreCompileInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\obj\Debug\netstandard2.0\Logging.csproj.CopyComplete
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Logging Application Block\Logging\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Logging.pdb

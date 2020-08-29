@@ -1,0 +1,14 @@
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.deps.json
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.Configuration.DesignResources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Manageability.Properties.Resources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.Properties.Resources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\obj\Debug\netstandard2.0\Common.csproj.GenerateResource.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Core\Common\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.pdb

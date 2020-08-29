@@ -1,0 +1,14 @@
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.deps.json
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\bin\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.pdb
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\obj\Debug\netstandard2.0\TransientFaultHandling.Caching.csprojAssemblyReference.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Properties.Resources.resources
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\obj\Debug\netstandard2.0\TransientFaultHandling.Caching.csproj.GenerateResource.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\obj\Debug\netstandard2.0\TransientFaultHandling.Caching.AssemblyInfoInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\obj\Debug\netstandard2.0\TransientFaultHandling.Caching.AssemblyInfo.cs
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\obj\Debug\netstandard2.0\TransientFaultHandling.Caching.csproj.CoreCompileInputs.cache
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\obj\Debug\netstandard2.0\TransientFaultHandling.Caching.csproj.CopyComplete
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll
+D:\MyGitApps\EnterpriseLibraryNetCore\Source\Transient Fault Handling Application Block\TransientFaultHandling.Caching\obj\Debug\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.pdb
