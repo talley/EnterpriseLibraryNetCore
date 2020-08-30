@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Mohammad Chavoshi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Talley Ouro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute(@"The Enterprise Library Data Access Application Block simplifies the development of tasks that implement common data access functionality. Applications can use this application block in a variety of situations, such as reading data for display, passing data through application layers, and submitting changed data back to the database system. This library contains a class library that targets .Net Core 2.0 & .Net Standard 2.0.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("6.0.1322.0")]

@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Mohammad Chavoshi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Talley Ouro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute(@"This package enables configuring the Transient Fault Handling Application Block (""Topaz"") using declarative configuration such as the app.config file. Configuring the block is also supported by the Enterprise Library Configuration Tool available in the Visual Studio Extensions Gallery. This library contains a class library that targets .Net Core 2.0 & .Net Standard 2.0.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("6.0.1312.0")]

@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Mohammad Chavoshi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Talley Ouro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("This exception handler lets you log formatted exception information in locations " +
     "specified in the configuration file. This library contains a class library that " +

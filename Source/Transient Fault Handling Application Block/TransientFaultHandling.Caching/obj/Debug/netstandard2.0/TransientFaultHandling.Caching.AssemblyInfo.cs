@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Mohammad Chavoshi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Talley Ouro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Transient error detection strategies to use with Windows Azure Caching or Windows" +
     " Server AppFabric Caching, for the Transient Fault Handling Application Block (\"" +

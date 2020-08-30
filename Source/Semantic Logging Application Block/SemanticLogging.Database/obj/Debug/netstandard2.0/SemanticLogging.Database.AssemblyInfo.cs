@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Mohammad Chavoshi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Talley Ouro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute(@"The Semantic Logging Application Block provides a set of destinations to persist events published by a subclass of EventSource, This add-on packages adds support to persisting log entries in SQL Server and Azure SQL Database. This library contains a class library that targets .Net Core 2.0 & .Net Standard 2.0.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.1406.4")]
